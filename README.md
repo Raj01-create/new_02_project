@@ -39,6 +39,6 @@ IMG_5678.jpg
 IMG_9999.jpg
 
 ```
-Note
+##Note
 
 This project was built as a learning exercise and is intended for educational purposes. It helped me gain hands-on experience with Python file operations and basic automation concepts.
